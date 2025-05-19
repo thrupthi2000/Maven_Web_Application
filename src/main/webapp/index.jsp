@@ -1,7 +1,7 @@
 <html>
 <body>
-<h1><font color='red'>Welcome to MicroDegree DevOps Training <font></h1>
-<h2>Learn Here.. Lead Anywhere..!! </h2>
+<h1><font color='red'>Welcome to Amazon <font></h1>
+<h2>Shop here....!! </h2>
   <h2> Deployed the WebApp, using jenkins CI/CD </h2>
 
 
